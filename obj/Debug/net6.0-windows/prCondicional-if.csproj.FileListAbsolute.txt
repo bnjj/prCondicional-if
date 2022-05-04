@@ -1,0 +1,17 @@
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\bin\Debug\net6.0-windows\prCondicional-if.exe
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\bin\Debug\net6.0-windows\prCondicional-if.deps.json
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\bin\Debug\net6.0-windows\prCondicional-if.runtimeconfig.json
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\bin\Debug\net6.0-windows\prCondicional-if.dll
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\bin\Debug\net6.0-windows\prCondicional-if.pdb
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\prCondicional-if.csproj.AssemblyReference.cache
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\prCondicional_if.Form1.resources
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\prCondicional-if.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\prCondicional-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\prCondicional-if.AssemblyInfoInputs.cache
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\prCondicional-if.AssemblyInfo.cs
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\prCondicional-if.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\prCondicional-if.dll
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\refint\prCondicional-if.dll
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\prCondicional-if.pdb
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\prCondicional-if.genruntimeconfig.cache
+C:\Users\benja\source\repos\prCondicional-if\prCondicional-if\obj\Debug\net6.0-windows\ref\prCondicional-if.dll
